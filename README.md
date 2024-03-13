@@ -1,4 +1,4 @@
-# InstaFilter: Unleash Your Creativity with Photos
+# Instafilter: Unleash Your Creativity with Photos
 
 ## Introduction
 
